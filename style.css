@@ -6,3 +6,13 @@ body {
   font-weight: 300;
   font-style: normal;
 }
+
+h1{
+    font-size: 30;
+}
+header{
+    font-size: 50;
+}
+p {
+    font-size: 25;
+}
