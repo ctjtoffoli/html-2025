@@ -24,5 +24,11 @@ p {
 }
 
 section {
-    background-color: rgb(60, 60, 121)73, 73, 185);
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right:10%;
 }
